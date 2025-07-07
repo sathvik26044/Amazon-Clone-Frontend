@@ -1,6 +1,6 @@
 # Amazon-Clone-Frontend
 <br>
-# Amazon Clone (HTML & CSS)
+# Amazon Clone (Using HTML & CSS)
 
 Welcome to my Amazon Clone project! 👋
 
